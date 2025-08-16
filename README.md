@@ -22,7 +22,7 @@ Aplicación web para organizar un sorteo de **Amigo Secreto**. Permite:
 - El sorteo genera un *derangement* (ninguna persona se asigna a sí misma).
 
 ## 🌐 Publicado en GitHub Pages
-Tu sitio está disponible en:  
+Disponible en:  
 👉 https://erikmedel-tech.github.io/challenge-amigo-secreto_esp-main/
 
 ## 🛠️ Despliegue automático con GitHub Actions
