@@ -1,5 +1,5 @@
 
-# Challenge: Amigo Secreto (Alura)
+# Challenge: Amigo Secreto 
 
 Aplicación web para organizar un sorteo de **Amigo Secreto**. Permite:
 - Agregar participantes a una lista (con validaciones).
@@ -33,8 +33,8 @@ Tu sitio está disponible en:
   2. Ve a **Actions** y habilita acciones en el repo si es necesario.
   3. Haz un commit/push a `main` y espera que el workflow publique el sitio.
 
-## 🎤 Guion corto para tu presentación (1–2 min)
-> “Hola, soy ___ y presento mi Challenge Amigo Secreto. La app permite ingresar nombres, validarlos y sortear un amigo secreto por persona evitando autoasignaciones. Practiqué lógica con JavaScript, arrays, manejo del DOM y validaciones de entrada. También incorporé accesibilidad con teclado y la opción de eliminar participantes. ¡Gracias!”
+## 🎤  presentación 
+> “Hola, soy Erik Medel y presento mi Challenge Amigo Secreto. La app permite ingresar nombres, validarlos y sortear un amigo secreto por persona evitando autoasignaciones. Practiqué lógica con JavaScript, arrays, manejo del DOM y validaciones de entrada. También incorporé accesibilidad con teclado y la opción de eliminar participantes. ¡Gracias!”
 
 ## 📄 Licencia
 MIT
